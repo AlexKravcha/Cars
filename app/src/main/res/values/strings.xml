@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CarsProj</string>
+    <string name="some_text">some text</string>
+    <string name="product_name">Product Name</string>
+    <string name="store_name">Store Name</string>
+    <string name="_435343544354">+ 435343544354</string>
+    <string name="_2_km_away">2 km away</string>
+    <string name="_2_hours_left">2 hours left</string>
+    <string name="john_doe">John Doe</string>
+    <string name="london_uk">London, UK</string>
+    <string name="_123_456_7890">+ 123 456 7890</string>
+    <string name="sell_product">Sell Product</string>
+    <string name="my_profile">My profile</string>
+    <string name="logout">Logout</string>
+    <string name="help">Help</string>
+    <string name="featured_product_request">Featured Product Request</string>
+    <string name="title">
+        Product Details:
+    </string>
+    <string name="title_next">
+        Buy and Get Offer for free!!!
+    </string>
+    <string name="dollar">$$$</string>
+    <string name="address"><b>Address:</b> London, UK</string>
+    <string name="number">+435343535435</string>
+    <string name="km">2km away</string>
+    <string name="hours">2 hours left</string>
+    <string name="offerdukaan">OfferDukaan</string>
+</resources>
